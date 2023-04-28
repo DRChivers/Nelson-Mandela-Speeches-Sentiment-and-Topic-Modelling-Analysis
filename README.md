@@ -1,5 +1,5 @@
 # Nelson Mandela Speeches Sentiment and Topic Modelling Analysis
-This is my MPhil Digital Humanities final dissertation project, applying computational linguistics methods (sentiment analysis and topic modelling) to the transcribed speeches of Nelson Mandela. 
+This is a repository for my MPhil Digital Humanities final dissertation project, which applies computational linguistics methods (sentiment analysis and topic modelling) to the speech transcriptions of Nelson Mandela. 
 # Data
 The dataset has been compiled using 1,577 EAD 2002 XML files containing transcripts of Nelson Mandela's speeches, which have been made available by the Nelson Mandela Foundation's Archive (https://atom.nelsonmandela.org/index.php/za-com-speeches). These transcripts have been taken from various sources, which are noted within the original XML file metadata. 
 # Data Cleaning Process and Scripts
