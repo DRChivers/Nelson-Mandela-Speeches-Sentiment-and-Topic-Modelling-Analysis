@@ -18,7 +18,14 @@ This project uses the Python programming language to analyse sentiment and to pr
 - mandela_topic_model.py
 - mandela_topic_model_unique_high_low_sentiment.py
 # Libraries 
-The scripts use several libraries which will need to be installed prior to running:
+The scripts for data cleaning use several libraries which will need to be installed prior to running (some may already be installed if using a distribution like Anaconda):
+```
+pip install pandas
+pip install requests
+pip install os
+pip install elementpath
+```
+The scripts for sentiment analysis and topic modelling use several libraries which will need to be installed prior to running:
 ```
 pip install beautifulsoup4
 pip install matplotlib
