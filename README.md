@@ -3,7 +3,7 @@ This is a repository for my MPhil Digital Humanities final dissertation project,
 # Data
 The dataset has been compiled using 1,577 EAD 2002 XML files containing transcripts of Nelson Mandela's speeches, which have been made available by the Nelson Mandela Foundation's Archive (https://atom.nelsonmandela.org/index.php/za-com-speeches). These transcripts have been taken from various sources, which are noted within the original XML file metadata. 
 # Data Cleaning Process and Scripts
-To make a corpus of machine-readable transcripts ready for my analysis, I have created scripts using ChatGPT and my own knowledge to extract the relevant data from the XML files. The following is an outline of the steps and scripts used to clean the data (in order): 
+To make a corpus of machine-readable transcripts ready for my analysis, I have created scripts using ChatGPT and my own knowledge to extract the relevant data from the XML files. This project uses the Python programming language via the Jupyter Notebooks IDE. The following is an outline of the steps and scripts used to clean the data (in order): 
 - Deploy the custom webscraper to extract the XML files from the archive to my computer (mandela_xml_files_web_scraping.ipynb)
 - Use the data extraction script to grab the filename and speech date and write it to a spreadsheet file (extract_xml_filename_and_date.ipynb)
 - Use the XML file renaming script to write the speech dates into the filename to make future computational analysis of the speeches easier (rename_xml_files.ipynb) 
