@@ -13,7 +13,7 @@ To make a corpus of machine-readable transcripts ready for my analysis, I have c
 - Read through the new merged spreadsheet database and complete final data cleaning operations (remove undated transcripts, etc.)
 Of the 1,577 XML files available in the archive, after data cleaning only 1,500 are usable after removing files which had no date, files which conatain no speeches, files which had non-English language speeches and no official translation, and so on. 
 # Sentiment and Topic Modelling Scripts
-This project uses the Python programming language to analyse sentiment and to provide topic modelling of the transcribed speeches. The three scripts being used have been modified from the Charles Stewart Parnell speech analysis project undertaken by Eugenio Biagini, Patrick Geoghegan, Hugh Hanley, Aneirin Jones, and Huw Jones at the University of Cambridge (see, https://github.com/NyeJones/parnell-sentiment-analysis-and-topic-modelling). They should be run in the following order:
+This project uses the Python programming language via the Jupyter Notebooks IDE to analyse sentiment and to provide topic modelling of the transcribed speeches. The three scripts being used have been modified from the Charles Stewart Parnell speech analysis project undertaken by Eugenio Biagini, Patrick Geoghegan, Hugh Hanley, Aneirin Jones, and Huw Jones at the University of Cambridge (see, https://github.com/NyeJones/parnell-sentiment-analysis-and-topic-modelling). They should be run in the following order:
 - mandela_sentiment_analysis.py
 - mandela_topic_model.py
 - mandela_topic_model_unique_high_low_sentiment.py
