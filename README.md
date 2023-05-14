@@ -11,7 +11,8 @@ To make a corpus of machine-readable transcripts ready for my analysis, I have c
 - Export the cleaned data from OpenRefine into a spreadsheet file 
 - Use the merging script to merge all the transcript data into a single cell, as every paragraph of each transcript is exported as an individual data cell (merging_transcipts_in_excel.ipynb) 
 - Read through the new merged spreadsheet database and complete final data cleaning operations (remove undated transcripts, etc.)
-- Then run the Excel to XML converter script to create new XML files which contain just the text of each transcript and uses the new file names we created earlier (excel_to_xml_converter.ipynb).
+- Then run the Excel to XML converter script to create new XML files which contain just the text of each transcript and uses the new file names we created earlier (excel_to_xml_converter.ipynb)
+
 Of the 1,577 XML files available in the archive, after data cleaning only 1,500 are usable after removing files which had no date, files which conatain no speeches, files which had non-English language speeches and no official translation, and so on. 
 # Sentiment and Topic Modelling Scripts
 This project uses the Python programming language via the Jupyter Notebooks IDE to analyse sentiment and to provide topic modelling of the transcribed speeches. The three scripts being used have been modified from the Charles Stewart Parnell speech analysis project undertaken by Eugenio Biagini, Patrick Geoghegan, Hugh Hanley, Aneirin Jones, and Huw Jones at the University of Cambridge (see, https://github.com/NyeJones/parnell-sentiment-analysis-and-topic-modelling). They should be run in the following order:
