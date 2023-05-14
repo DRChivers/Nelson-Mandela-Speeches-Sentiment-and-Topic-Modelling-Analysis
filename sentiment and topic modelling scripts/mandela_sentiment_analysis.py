@@ -130,7 +130,7 @@ neg_words_unique.sort()
 #create text file with sentiment classification of all corpus words
 #this enables us to see how the classifier in its current form classifies words
 #we can then amend the json file used above to improve performance of sentiment analysis by including new words/scores
-with open("outputs/word_sentiments_parnell.txt", "w") as f:
+with open("outputs/word_sentiments_mandela.txt", "w") as f:
     f.write("positive polarity words")
     f.write(str(pos_words_unique))
     f.write("\n")
@@ -186,15 +186,15 @@ sum_column = strong_df["positive"] + strong_df["negative"]
 strong_df["sum positive/negative"] = sum_column
 
 #save dataframe to csv with all results
-strong_df.to_csv("outputs/parnell_vader_strong_non_compound_scores_sentiment_all.csv")
+strong_df.to_csv("outputs/mandela_vader_strong_non_compound_scores_sentiment_all.csv")
 
 #divide dataframe into low scoring and high scoring emotion, the parameters can be changed
 strong_high_score_df = strong_df.loc[(strong_df["sum positive/negative"] >= 0.3)]
 low_high_score_df = strong_df.loc[(strong_df["sum positive/negative"] <= 0.1)]
 
 #save the above dataframes to csv files
-strong_high_score_df.to_csv("outputs/parnell_vader_strong_non_compound_scores_sentiment_high.csv")
-low_high_score_df.to_csv("outputs/parnell_vader_strong_non_compound_scores_sentiment_low.csv")
+strong_high_score_df.to_csv("outputs/mandela_vader_strong_non_compound_scores_sentiment_high.csv")
+low_high_score_df.to_csv("outputs/mandela_vader_strong_non_compound_scores_sentiment_low.csv")
             
 #create main dataframe, which includes/uses neutral and compound scores.
 #compound score takes into account sentence syntax for creating a positive/negative score
@@ -222,7 +222,7 @@ df_neutral = df.loc[(df['compound score'] >= -0.2) & (df['compound score'] <= 0.
 
 #save dataframes to csv, index to speech_id
 df_pos_neg.set_index("speech_id", inplace=True)
-df_pos_neg.to_csv("outputs/parnell_vader_pos_neg_speech_sentiment_analysis_scores.csv")
+df_pos_neg.to_csv("outputs/mandela_vader_pos_neg_speech_sentiment_analysis_scores.csv")
 
 df_neutral.set_index("speech_id", inplace=True)
-df_neutral.to_csv("outputs/parnell_vader_neutral_speech_sentiment_analysis_scores.csv")
+df_neutral.to_csv("outputs/mandela_vader_neutral_speech_sentiment_analysis_scores.csv")

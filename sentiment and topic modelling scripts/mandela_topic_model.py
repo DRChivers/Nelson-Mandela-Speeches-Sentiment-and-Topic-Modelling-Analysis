@@ -10,10 +10,10 @@ pd.options.mode.chained_assignment = None
 
 #topic modelling performed on both normal vader sentiment scores and scores without neutral
 filenames = [
-            "outputs/parnell_vader_neutral_speech_sentiment_analysis_scores.csv", 
-            "outputs/parnell_vader_pos_neg_speech_sentiment_analysis_scores.csv",
-            "outputs/parnell_vader_strong_non_compound_scores_sentiment_low.csv",
-            "outputs/parnell_vader_strong_non_compound_scores_sentiment_high.csv"
+            "outputs/mandela_vader_neutral_speech_sentiment_analysis_scores.csv", 
+            "outputs/mandela_vader_pos_neg_speech_sentiment_analysis_scores.csv",
+            "outputs/mandela_vader_strong_non_compound_scores_sentiment_low.csv",
+            "outputs/mandela_vader_strong_non_compound_scores_sentiment_high.csv"
             ]            
 
 #create dataframe from sentiment analysis csv data
