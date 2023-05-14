@@ -10,7 +10,7 @@ from pathlib import Path
 from natsort import os_sorted
 
 #create a filepath to the directory
-dir_path = Path("../sources/")
+dir_path = Path("C:/Documents/Renaming XML Files/new xml") 
 
 #get filepaths to all the xml files in the directory
 xml_files = (file for file in dir_path.iterdir() if file.is_file() and file.name.lower().endswith('.xml'))
@@ -68,7 +68,7 @@ for file, doc in file_doc:
     speech = speech["key"]
     date = doc.find("date")
     year_text = date["when"]
-    year = re.match(r"\d{4}", year_text)
+    year = re.match(r"\d{7}", year_text)
     if year != None:
         year = year.group()
     else:
