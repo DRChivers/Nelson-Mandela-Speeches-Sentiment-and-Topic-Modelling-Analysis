@@ -1,33 +1,33 @@
 term,combined score,date,score category
-year,2.8356639475599947,1953,unique neutral score
-organisation,2.42583476068606,1953,unique neutral score
-national,1.4291913851563434,1953,unique neutral score
-every,0.954192222094085,1953,unique neutral score
-public,0.828311824613585,1953,unique neutral score
-whose,0.8242719031727792,1953,unique neutral score
-minister,0.8049878959723548,1953,unique neutral score
-efforts,0.7893282555213308,1953,unique neutral score
-anc,0.7605995827338725,1953,unique neutral score
-united,0.6645838717577529,1953,unique neutral score
-respect,0.6640217121796339,1953,unique neutral score
-investment,0.5168420453719929,1953,unique neutral score
-general,0.4981392960910786,1953,unique neutral score
-human,0.480049980675478,1953,unique neutral score
-fact,0.4745961268245648,1953,unique neutral score
-countries,0.4594269762082609,1953,unique neutral score
-still,0.451924491095395,1953,unique neutral score
-force,0.4422414294270546,1953,unique neutral score
-place,0.4422042749017509,1953,unique neutral score
-millions,0.4286452661112998,1953,unique neutral score
-two,0.4186122145516762,1953,unique neutral score
-among,0.4000989947959859,1953,unique neutral score
-unity,0.3984478385601183,1953,unique neutral score
-men,2.705066510153994,1953,unique high sentiment score
-death,2.1803517033249022,1953,unique high sentiment score
-action,1.9222776429443416,1953,unique high sentiment score
-strong,1.190460545060955,1953,unique high sentiment score
-oppression,1.0470341617207986,1953,unique high sentiment score
-humanity,1.006964806497859,1953,unique high sentiment score
+year,2.83496346181598,1953,unique neutral score
+organisation,2.425222498525267,1953,unique neutral score
+trade,1.637557975234592,1953,unique neutral score
+national,1.43197872001212,1953,unique neutral score
+every,0.940484693307318,1953,unique neutral score
+public,0.8280412768058094,1953,unique neutral score
+whose,0.8237811877149739,1953,unique neutral score
+efforts,0.7888704936881966,1953,unique neutral score
+anc,0.7618483266436816,1953,unique neutral score
+united,0.6639978281997556,1953,unique neutral score
+respect,0.6514388825453432,1953,unique neutral score
+minister,0.6266769962830065,1953,unique neutral score
+investment,0.5166214642213017,1953,unique neutral score
+general,0.4979809082097486,1953,unique neutral score
+fact,0.4743770909005921,1953,unique neutral score
+countries,0.4592066656073527,1953,unique neutral score
+still,0.4517064590779827,1953,unique neutral score
+human,0.4434116781870886,1953,unique neutral score
+force,0.4427102459303175,1953,unique neutral score
+place,0.4424725277684886,1953,unique neutral score
+millions,0.4284688951772233,1953,unique neutral score
+two,0.4194240259900123,1953,unique neutral score
+among,0.4008274922867666,1953,unique neutral score
+men,2.705076989181354,1953,unique high sentiment score
+death,2.1801962906587047,1953,unique high sentiment score
+action,1.9222900331211448,1953,unique high sentiment score
+strong,1.1904704035382945,1953,unique high sentiment score
+oppression,1.046857334528696,1953,unique high sentiment score
+humanity,1.006628966335474,1953,unique high sentiment score
 crime,1.0,1953,unique high sentiment score
 support,1.0,1953,unique high sentiment score
 challenge,1.0,1953,unique high sentiment score
@@ -35,13 +35,13 @@ together,1.0,1953,unique high sentiment score
 within,1.0,1953,unique high sentiment score
 past,1.0,1953,unique high sentiment score
 africans,1.0,1953,unique high sentiment score
-state,0.9346784508014844,1953,unique high sentiment score
-become,0.9151157188374368,1953,unique high sentiment score
-free,0.8350573052451218,1953,unique high sentiment score
-end,0.8215567473386332,1953,unique high sentiment score
-accept,0.7522933883095742,1953,unique high sentiment score
-strength,0.7094795833980038,1953,unique high sentiment score
-amongst,0.6238735601085315,1953,unique high sentiment score
-new,0.6108867230651259,1953,unique high sentiment score
-social,0.5698245552723418,1953,unique high sentiment score
-stability,0.5572941875840658,1953,unique high sentiment score
+state,0.9346896040366304,1953,unique high sentiment score
+become,0.9150115710954132,1953,unique high sentiment score
+free,0.835196289892982,1953,unique high sentiment score
+end,0.8216788438300654,1953,unique high sentiment score
+accept,0.7523028243921708,1953,unique high sentiment score
+strength,0.7094800769959636,1953,unique high sentiment score
+amongst,0.6236760782946965,1953,unique high sentiment score
+new,0.6106164990540472,1953,unique high sentiment score
+social,0.5698229828883624,1953,unique high sentiment score
+stability,0.557305953085292,1953,unique high sentiment score

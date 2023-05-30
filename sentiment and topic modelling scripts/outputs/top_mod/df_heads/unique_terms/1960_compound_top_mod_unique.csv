@@ -1,30 +1,30 @@
 term,combined score,date,score category
-future,0.7126310631719497,1960,unique neutral score
-economic,0.7015389994878523,1960,unique neutral score
-racial,0.6726624672183962,1960,unique neutral score
-country,0.4268514334326782,1960,unique neutral score
-south,0.3646212120602485,1960,unique neutral score
-towards,0.325074879507979,1960,unique neutral score
-bring,0.3162034291506457,1960,unique neutral score
-south african,0.2974170426284055,1960,unique neutral score
-rights,0.2971581875819766,1960,unique neutral score
-years,0.2866723167352931,1960,unique neutral score
-south africa,0.2166646001108931,1960,unique neutral score
-africa,0.2021664134608424,1960,unique neutral score
-order,1.6593315247709983,1960,unique high sentiment score
-become,1.623601023426888,1960,unique high sentiment score
-matter,1.5338802196597563,1960,unique high sentiment score
-clear,1.286520778953393,1960,unique high sentiment score
-achieved,1.0764539033163265,1960,unique high sentiment score
+future,0.7126337941672558,1960,unique neutral score
+economic,0.7015362253018594,1960,unique neutral score
+racial,0.67296578221173,1960,unique neutral score
+country,0.4264738952378678,1960,unique neutral score
+south,0.3644722471353485,1960,unique neutral score
+towards,0.324757407551856,1960,unique neutral score
+bring,0.3165841069802079,1960,unique neutral score
+rights,0.2969723807560064,1960,unique neutral score
+south african,0.2969723807560064,1960,unique neutral score
+years,0.2863756116923168,1960,unique neutral score
+south africa,0.2165197261015077,1960,unique neutral score
+africa,0.2019917639817458,1960,unique neutral score
+order,1.659514112464839,1960,unique high sentiment score
+become,1.6234827153527704,1960,unique high sentiment score
+matter,1.5344183302139078,1960,unique high sentiment score
+clear,1.2861637456090174,1960,unique high sentiment score
+achieved,1.0761476215805468,1960,unique high sentiment score
 others,1.0,1960,unique high sentiment score
-police,0.8043024173829226,1960,unique high sentiment score
-accept,0.7366996991101491,1960,unique high sentiment score
-time,0.7214553612159894,1960,unique high sentiment score
-strong,0.6139266528670714,1960,unique high sentiment score
-public,0.5813687244538793,1960,unique high sentiment score
-action,0.5534905159589592,1960,unique high sentiment score
-freedom,0.5510490846076275,1960,unique high sentiment score
-peoples,0.5291751145256475,1960,unique high sentiment score
-process,0.5023587202308271,1960,unique high sentiment score
-death,0.4587840991480738,1960,unique high sentiment score
-new,0.4576908538295101,1960,unique high sentiment score
+police,0.8041191183191247,1960,unique high sentiment score
+accept,0.736705836306159,1960,unique high sentiment score
+time,0.720878047455092,1960,unique high sentiment score
+strong,0.613808274694073,1960,unique high sentiment score
+public,0.5813733775977112,1960,unique high sentiment score
+action,0.5533600364389457,1960,unique high sentiment score
+freedom,0.55079049651257,1960,unique high sentiment score
+peoples,0.5289997040874209,1960,unique high sentiment score
+process,0.5025770343058634,1960,unique high sentiment score
+death,0.4587275821428748,1960,unique high sentiment score
+new,0.4575637925170421,1960,unique high sentiment score

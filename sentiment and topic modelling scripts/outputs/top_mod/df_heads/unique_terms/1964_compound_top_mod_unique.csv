@@ -1,34 +1,34 @@
 term,combined score,date,score category
-country,1.0026309548714838,1964,unique neutral score
+country,1.0024633799550893,1964,unique neutral score
 including,1.0,1964,unique neutral score
-right,0.8801268526754935,1964,unique neutral score
-organisation,0.6859073092794608,1964,unique neutral score
-pride,0.6783721857198663,1964,unique neutral score
-nation,0.5308919268712368,1964,unique neutral score
-leadership,0.4035343292483224,1964,unique neutral score
-long,0.3674947358374348,1964,unique neutral score
-confidence,0.3395137621622492,1964,unique neutral score
-economic,0.3305633701238772,1964,unique neutral score
-women,0.2643375494092529,1964,unique neutral score
-peace,0.2608069997696389,1964,unique neutral score
-white,2.391425409115796,1964,unique high sentiment score
-committed,2.341657295881613,1964,unique high sentiment score
-fight,1.9067142421214225,1964,unique high sentiment score
-action,1.1515138547843675,1964,unique high sentiment score
-continue,1.1496976521650484,1964,unique high sentiment score
-want,1.1335633808444552,1964,unique high sentiment score
+right,0.8810223766198853,1964,unique neutral score
+organisation,0.6855794615796791,1964,unique neutral score
+pride,0.6784185289342931,1964,unique neutral score
+nation,0.5308670863668054,1964,unique neutral score
+leadership,0.4034984548884031,1964,unique neutral score
+long,0.3673747520357225,1964,unique neutral score
+confidence,0.339156989150468,1964,unique neutral score
+economic,0.3304388312876098,1964,unique neutral score
+women,0.2640429127262753,1964,unique neutral score
+peace,0.2615144534422357,1964,unique neutral score
+white,2.391065891917392,1964,unique high sentiment score
+committed,2.3416695050750502,1964,unique high sentiment score
+fight,1.9065724183884147,1964,unique high sentiment score
+action,1.1514188609582554,1964,unique high sentiment score
+continue,1.1496966814499063,1964,unique high sentiment score
+want,1.1335587392625752,1964,unique high sentiment score
 party,1.0,1964,unique high sentiment score
 public,1.0,1964,unique high sentiment score
 lives,1.0,1964,unique high sentiment score
-spirit,0.7870016395013054,1964,unique high sentiment score
-death,0.6791108407938314,1964,unique high sentiment score
-work,0.6669226299783304,1964,unique high sentiment score
-future,0.6110569646130933,1964,unique high sentiment score
-strong,0.4999592876882111,1964,unique high sentiment score
-hand,0.4881427131662137,1964,unique high sentiment score
-year,0.478056657669404,1964,unique high sentiment score
-face,0.4478045003589385,1964,unique high sentiment score
-difficult,0.3928576056955648,1964,unique high sentiment score
-greatest,0.3675900209578079,1964,unique high sentiment score
-past,0.3392690782373078,1964,unique high sentiment score
-achieved,0.3373035281157607,1964,unique high sentiment score
+spirit,0.7870782723355517,1964,unique high sentiment score
+death,0.6791051163114104,1964,unique high sentiment score
+work,0.6669135688059674,1964,unique high sentiment score
+future,0.6112218831352292,1964,unique high sentiment score
+strong,0.4998677368054137,1964,unique high sentiment score
+hand,0.4879698384810724,1964,unique high sentiment score
+year,0.4778853588492343,1964,unique high sentiment score
+face,0.4478129934427894,1964,unique high sentiment score
+difficult,0.3927342822430309,1964,unique high sentiment score
+greatest,0.3674512963964259,1964,unique high sentiment score
+past,0.3391353123650348,1964,unique high sentiment score
+achieved,0.3372881426221428,1964,unique high sentiment score

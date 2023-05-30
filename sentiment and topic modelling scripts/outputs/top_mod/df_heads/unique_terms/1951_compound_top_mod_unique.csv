@@ -1,58 +1,58 @@
 term,combined score,date,score category
-situation,1.627382816369121,1951,unique neutral score
-world,1.2341606761385626,1951,unique neutral score
-power,1.2261409532871794,1951,unique neutral score
-forces,1.2130973253347264,1951,unique neutral score
-congress,1.1750698698482327,1951,unique neutral score
+situation,1.6273874348158597,1951,unique neutral score
+world,1.234013865986505,1951,unique neutral score
+power,1.2261030461255804,1951,unique neutral score
+forces,1.212965739688971,1951,unique neutral score
+congress,1.1749559449436604,1951,unique neutral score
 year,1.0,1951,unique neutral score
 democracy,1.0,1951,unique neutral score
 different,1.0,1951,unique neutral score
 future,1.0,1951,unique neutral score
-going,0.943853127626574,1951,unique neutral score
-economic,0.8861364996124443,1951,unique neutral score
-organisations,0.8780623976469513,1951,unique neutral score
-always,0.8630396622150218,1951,unique neutral score
-white,0.8457730394500016,1951,unique neutral score
-various,0.8164139836274603,1951,unique neutral score
-make,0.8134584557992681,1951,unique neutral score
-become,0.7761495117712364,1951,unique neutral score
-achieve,0.7212291985554589,1951,unique neutral score
-approach,0.6519118386581418,1951,unique neutral score
-today,0.6305489159274412,1951,unique neutral score
-far,0.6099681289268089,1951,unique neutral score
-general,0.6018025147692364,1951,unique neutral score
-past,0.6015835446744816,1951,unique neutral score
-two,0.5913257804291868,1951,unique neutral score
-organisation,0.5799366235577657,1951,unique neutral score
-south african,0.5738493629524303,1951,unique neutral score
-set,0.5705883126174431,1951,unique neutral score
-conference,0.566984356090753,1951,unique neutral score
-youth,0.5625663753115131,1951,unique neutral score
-matter,0.5624610859124186,1951,unique neutral score
-state,0.5498798588763794,1951,unique neutral score
-years,0.5370577810410153,1951,unique neutral score
-policy,0.5227718827629636,1951,unique neutral score
-programme,0.514484077279257,1951,unique neutral score
-whole,0.5029531978832613,1951,unique neutral score
-country,0.4851249590776543,1951,unique neutral score
-common,0.4346693202191677,1951,unique neutral score
-human,0.3945404083267979,1951,unique neutral score
-political,0.3695774936613729,1951,unique neutral score
-interest,1.2590688703628068,1951,unique high sentiment score
-including,0.7622322389707475,1951,unique high sentiment score
-party,0.693458282030183,1951,unique high sentiment score
-hand,0.5600529337106183,1951,unique high sentiment score
-spirit,0.5226525501184226,1951,unique high sentiment score
-leadership,0.5189282693751645,1951,unique high sentiment score
-strength,0.4969442324832947,1951,unique high sentiment score
-continue,0.496232201191749,1951,unique high sentiment score
-role,0.4849591697743667,1951,unique high sentiment score
-efforts,0.4703265205477557,1951,unique high sentiment score
-time,0.4659762875390616,1951,unique high sentiment score
-progress,0.4610103043122025,1951,unique high sentiment score
-development,0.4232575045914508,1951,unique high sentiment score
-live,0.335247138344049,1951,unique high sentiment score
-free,0.2772280267892431,1951,unique high sentiment score
-democratic,0.273685345542348,1951,unique high sentiment score
-hope,0.2714312772024064,1951,unique high sentiment score
-united,0.27124708673034,1951,unique high sentiment score
+going,0.9437369771622356,1951,unique neutral score
+economic,0.8860330969036758,1951,unique neutral score
+organisations,0.879627061401336,1951,unique neutral score
+always,0.863053379593126,1951,unique neutral score
+white,0.8456536907967187,1951,unique neutral score
+various,0.8164238729568091,1951,unique neutral score
+make,0.8133722292380916,1951,unique neutral score
+become,0.7761561972149292,1951,unique neutral score
+achieve,0.7210456612874834,1951,unique neutral score
+approach,0.6519186709101519,1951,unique neutral score
+today,0.6305406866530182,1951,unique neutral score
+far,0.6099711101419879,1951,unique neutral score
+general,0.6018047678160094,1951,unique neutral score
+past,0.6011073410036626,1951,unique neutral score
+two,0.5922012107291199,1951,unique neutral score
+organisation,0.5799367092067298,1951,unique neutral score
+south african,0.5738408146159719,1951,unique neutral score
+set,0.5705876341424986,1951,unique neutral score
+conference,0.5669833654481266,1951,unique neutral score
+youth,0.5625721431039629,1951,unique neutral score
+matter,0.5624596738780792,1951,unique neutral score
+state,0.5498772558997299,1951,unique neutral score
+years,0.5366262112518086,1951,unique neutral score
+policy,0.5224236920979791,1951,unique neutral score
+programme,0.5141406127505344,1951,unique neutral score
+whole,0.5029500663240836,1951,unique neutral score
+country,0.4851127618109743,1951,unique neutral score
+common,0.4350409938337777,1951,unique neutral score
+human,0.3947087944678225,1951,unique neutral score
+political,0.3699108411410744,1951,unique neutral score
+interest,1.2576150702901296,1951,unique high sentiment score
+including,0.7627395249014145,1951,unique high sentiment score
+party,0.6947345638406053,1951,unique high sentiment score
+hand,0.5598298892573241,1951,unique high sentiment score
+spirit,0.523541929011091,1951,unique high sentiment score
+leadership,0.5182915888958605,1951,unique high sentiment score
+strength,0.4969549508194597,1951,unique high sentiment score
+continue,0.4959177099908217,1951,unique high sentiment score
+role,0.4851552485909239,1951,unique high sentiment score
+efforts,0.4703253781879387,1951,unique high sentiment score
+time,0.4664867492760494,1951,unique high sentiment score
+progress,0.4610050107011909,1951,unique high sentiment score
+development,0.4232742800818488,1951,unique high sentiment score
+live,0.3352106904993924,1951,unique high sentiment score
+free,0.2771739242185914,1951,unique high sentiment score
+democratic,0.2738218155281757,1951,unique high sentiment score
+hope,0.2715602064202158,1951,unique high sentiment score
+united,0.2711911642101044,1951,unique high sentiment score

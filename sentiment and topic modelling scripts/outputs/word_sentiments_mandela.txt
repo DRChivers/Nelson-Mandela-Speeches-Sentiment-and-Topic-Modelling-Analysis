@@ -2253,16 +2253,6 @@ $
 2.1
 2.2
 2.3
-2.3.1
-2.3.10
-2.3.2
-2.3.3
-2.3.4
-2.3.5
-2.3.6
-2.3.7
-2.3.8
-2.3.9
 2.4
 2.5
 2.6
@@ -6656,7 +6646,6 @@ chiba
 chicken
 chief
 chief
-chief
 chiefdoms
 chiefly
 chiefly
@@ -7859,7 +7848,6 @@ conundrums
 conveen
 convene
 convened
-conveners
 convenes
 convenience
 conveniences
@@ -7963,7 +7951,6 @@ corporations
 corporations
 corps
 corps
-corps/youth
 corpses
 correct
 corrected
@@ -9365,7 +9352,6 @@ dispensation
 dispense
 dispensed
 dispensing
-disperse
 dispersed
 dispersing
 displace
@@ -14781,7 +14767,6 @@ inkosi
 inkosi
 inkosi
 inkosi
-inkosi
 inkululeko
 inkunzi
 inkunzi
@@ -16344,7 +16329,6 @@ kwazepolitiki
 kwazulu
 kwazulu
 kwazulu
-kwazulu
 kwazulu/
 kwazulu/natal
 kwazulu/natal
@@ -17635,7 +17619,6 @@ mangithathe
 mangope
 mangosutho
 mangosuthu
-mangosuthu
 manguang
 manier
 manifest
@@ -18048,7 +18031,6 @@ mechanical
 mechanical
 mechanics
 mechanism
-mechanisms
 mechanisms
 mechanisms
 mecs
@@ -19977,7 +19959,6 @@ nor
 nora
 nordic
 norm
-normal
 normal
 normal
 normalcy
@@ -22407,7 +22388,6 @@ principle
 principled
 principles
 principles
-principles
 print
 printed
 printing
@@ -23802,7 +23782,6 @@ related
 relates
 relating
 relation
-relations
 relations
 relations
 relationship
@@ -28009,7 +27988,6 @@ thugwane
 thula
 thulamela
 thulani
-thumb
 thumbs
 thunder
 thundering
