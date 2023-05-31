@@ -2,9 +2,11 @@ term,combined score,date,score category
 organisation,1.6335975190010426,2009,unique neutral score
 national,0.7671231562837884,2009,unique neutral score
 racial,0.7575583647597964,2009,unique neutral score
-elections,0.7461545684027682,2009,unique neutral score
 african,0.7352087048746356,2009,unique neutral score
 time,0.6527674348360701,2009,unique neutral score
+death,0.6390115488669144,2009,unique neutral score
+victory,0.6127529317046471,2009,unique neutral score
+elections,0.5896669564794134,2009,unique neutral score
 respect,0.5613310270664906,2009,unique neutral score
 leadership,0.5337613200115352,2009,unique neutral score
 continent,0.5222330699518275,2009,unique neutral score
@@ -19,25 +21,25 @@ future,0.454581299151106,2009,unique neutral score
 party,0.4516269925300599,2009,unique neutral score
 democratic,0.4450949715006128,2009,unique neutral score
 honour,0.442166159079645,2009,unique neutral score
-millions,0.3968549196432599,2009,unique neutral score
+honoured,3.552402559274672,2009,unique high sentiment score
 dear,3.4377449084615237,2009,unique high sentiment score
 struggle,3.3317770350133125,2009,unique high sentiment score
 freedom,2.17782079929022,2009,unique high sentiment score
 always,1.4024892312740052,2009,unique high sentiment score
-problems,1.2156581241293958,2009,unique high sentiment score
+today,1.3819362554234085,2009,unique high sentiment score
 support,1.1367563419825302,2009,unique high sentiment score
-achieved,1.098129728983397,2009,unique high sentiment score
-share,1.0,2009,unique high sentiment score
 poverty,0.987084288034529,2009,unique high sentiment score
 south,0.8815833678888991,2009,unique high sentiment score
 challenges,0.7974253339852377,2009,unique high sentiment score
 critical,0.7638676186572275,2009,unique high sentiment score
+pride,0.7458918620581184,2009,unique high sentiment score
 south africa,0.7315978949692018,2009,unique high sentiment score
 young,0.7119074156637493,2009,unique high sentiment score
 play,0.6894281297346738,2009,unique high sentiment score
+apartheid,0.675545121119433,2009,unique high sentiment score
+share,0.6660670612749687,2009,unique high sentiment score
 spirit,0.6587214813889103,2009,unique high sentiment score
 within,0.6475241672663109,2009,unique high sentiment score
 racism,0.6309336791464744,2009,unique high sentiment score
 social,0.6062822019135811,2009,unique high sentiment score
 ensure,0.5846775560181726,2009,unique high sentiment score
-victory,0.5743844332672224,2009,unique high sentiment score

@@ -1,13 +1,15 @@
 term,combined score,date,score category
 public,1.306447335426486,1961,unique neutral score
+whose,1.083497223006046,1961,unique neutral score
 crime,0.8694898563722726,1961,unique neutral score
-unity,0.8643426166969392,1961,unique neutral score
+unity,0.8052963952319958,1961,unique neutral score
 leadership,0.5494057480467032,1961,unique neutral score
 business,0.549063985626419,1961,unique neutral score
-year,0.5353601281979927,1961,unique neutral score
 justice,0.5181284244546288,1961,unique neutral score
 people south,0.5089235765466202,1961,unique neutral score
+achieved,0.5020819459689922,1961,unique neutral score
 organisation,0.4907694997571872,1961,unique neutral score
+year,0.4629901730373792,1961,unique neutral score
 south african,0.4377232776312885,1961,unique neutral score
 nation,0.4375291099599362,1961,unique neutral score
 community,0.3996499954938927,1961,unique neutral score
@@ -17,24 +19,25 @@ place,0.3732587684464289,1961,unique neutral score
 movement,0.3516875646108965,1961,unique neutral score
 today,0.3091229539359006,1961,unique neutral score
 society,0.2942766845922565,1961,unique neutral score
-peace,0.253371134083997,1961,unique neutral score
-action,3.46178232864432,1961,unique high sentiment score
+world,0.271755689948194,1961,unique neutral score
+action,3.301560162949675,1961,unique high sentiment score
+power,1.925444476021664,1961,unique high sentiment score
+powerful,1.844769128074205,1961,unique high sentiment score
 future,1.6816585384180749,1961,unique high sentiment score
-forces,1.6487116694525263,1961,unique high sentiment score
 difficult,1.5887174148962049,1961,unique high sentiment score
+forces,1.51373292765973,1961,unique high sentiment score
 cannot,1.4884462648088963,1961,unique high sentiment score
-strong,1.4848466213052407,1961,unique high sentiment score
 fight,1.392049467113377,1961,unique high sentiment score
+strong,1.3438148584272525,1961,unique high sentiment score
+find,1.2733635869307016,1961,unique high sentiment score
 face,1.2009644522780925,1961,unique high sentiment score
-death,1.0652088432366105,1961,unique high sentiment score
-matter,1.0156901727823286,1961,unique high sentiment score
-committed,1.0,1961,unique high sentiment score
-role,1.0,1961,unique high sentiment score
-want,1.0,1961,unique high sentiment score
 need,1.0,1961,unique high sentiment score
-efforts,1.0,1961,unique high sentiment score
+want,1.0,1961,unique high sentiment score
+role,1.0,1961,unique high sentiment score
 long,1.0,1961,unique high sentiment score
+committed,1.0,1961,unique high sentiment score
+efforts,1.0,1961,unique high sentiment score
+matter,0.9207586219974274,1961,unique high sentiment score
 become,0.876705735746268,1961,unique high sentiment score
+importance,0.7794350071866676,1961,unique high sentiment score
 two,0.7552196879053222,1961,unique high sentiment score
-strength,0.7149307985364194,1961,unique high sentiment score
-build,0.6991952183075036,1961,unique high sentiment score

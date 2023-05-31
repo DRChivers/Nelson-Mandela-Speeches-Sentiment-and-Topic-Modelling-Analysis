@@ -1,29 +1,25 @@
 term,combined score,date,score category
-african,11.033754287357564,1990,unique neutral score
-president,10.745566922139798,1990,unique neutral score
-millions,10.015286929189552,1990,unique neutral score
-united,9.662722070950064,1990,unique neutral score
-economy,9.6465318870491,1990,unique neutral score
-world,9.295480473612937,1990,unique neutral score
-need,9.00491059710278,1990,unique neutral score
-whose,8.861116344754418,1990,unique neutral score
-international,8.619896512508387,1990,unique neutral score
-new,8.355440848764811,1990,unique neutral score
-make,8.236933672954912,1990,unique neutral score
-humanity,8.109052643512069,1990,unique neutral score
-right,7.925769989355642,1990,unique neutral score
-fact,7.904129311340268,1990,unique neutral score
-victory,25.3418886608232,1990,unique high sentiment score
+african,11.116671479082015,1990,unique neutral score
+president,11.084568083570234,1990,unique neutral score
+united,9.649793053666553,1990,unique neutral score
+millions,9.570710478240294,1990,unique neutral score
+economy,9.428830571206731,1990,unique neutral score
+world,9.2433851152266,1990,unique neutral score
+need,8.879186631626819,1990,unique neutral score
+whose,8.82675724286745,1990,unique neutral score
+international,8.753458514811612,1990,unique neutral score
+possible,8.628364196748969,1990,unique neutral score
+fact,8.001495263570751,1990,unique neutral score
+new,7.96958399482783,1990,unique neutral score
 prison,20.39846285346203,1990,unique high sentiment score
-death,19.78881328175112,1990,unique high sentiment score
 good,16.697621637434782,1990,unique high sentiment score
-peaceful,15.994630462393127,1990,unique high sentiment score
-conflict,15.993482983011823,1990,unique high sentiment score
-racism,15.825014945462396,1990,unique high sentiment score
-problems,15.699538462730748,1990,unique high sentiment score
-party,15.112650969992764,1990,unique high sentiment score
+conflict,16.065612809276256,1990,unique high sentiment score
+peaceful,15.563932372526086,1990,unique high sentiment score
+problems,15.558139885996503,1990,unique high sentiment score
+racism,15.479854838658762,1990,unique high sentiment score
+party,14.78311085297374,1990,unique high sentiment score
 still,14.032864816254168,1990,unique high sentiment score
-even,13.63734326630196,1990,unique high sentiment score
 committed,13.601203260730443,1990,unique high sentiment score
 security,13.594745874438315,1990,unique high sentiment score
-white,13.15165405677387,1990,unique high sentiment score
+even,13.487997449349251,1990,unique high sentiment score
+white,13.041718206458883,1990,unique high sentiment score

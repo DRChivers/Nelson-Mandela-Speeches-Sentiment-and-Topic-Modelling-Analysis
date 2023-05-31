@@ -39,18 +39,19 @@ common,0.4350409938337777,1951,unique neutral score
 human,0.3947087944678225,1951,unique neutral score
 political,0.3699108411410744,1951,unique neutral score
 interest,1.2576150702901296,1951,unique high sentiment score
+victory,0.9424189417665092,1951,unique high sentiment score
 including,0.7627395249014145,1951,unique high sentiment score
 party,0.6947345638406053,1951,unique high sentiment score
 hand,0.5598298892573241,1951,unique high sentiment score
-spirit,0.523541929011091,1951,unique high sentiment score
-leadership,0.5182915888958605,1951,unique high sentiment score
-strength,0.4969549508194597,1951,unique high sentiment score
 continue,0.4959177099908217,1951,unique high sentiment score
 role,0.4851552485909239,1951,unique high sentiment score
-efforts,0.4703253781879387,1951,unique high sentiment score
 time,0.4664867492760494,1951,unique high sentiment score
-progress,0.4610050107011909,1951,unique high sentiment score
+spirit,0.4598885237735959,1951,unique high sentiment score
+leadership,0.4552765318182171,1951,unique high sentiment score
+strength,0.4400833298197397,1951,unique high sentiment score
 development,0.4232742800818488,1951,unique high sentiment score
+efforts,0.4165012506473081,1951,unique high sentiment score
+progress,0.4082475078242453,1951,unique high sentiment score
 live,0.3352106904993924,1951,unique high sentiment score
 free,0.2771739242185914,1951,unique high sentiment score
 democratic,0.2738218155281757,1951,unique high sentiment score

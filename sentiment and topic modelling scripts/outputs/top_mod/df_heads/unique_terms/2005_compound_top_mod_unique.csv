@@ -3,14 +3,15 @@ strength,1.6389671944592012,2005,unique neutral score
 country,1.2880876138276691,2005,unique neutral score
 nation,1.092442177428538,2005,unique neutral score
 indeed,1.0,2005,unique neutral score
-privilege,1.0,2005,unique neutral score
 towards,0.8473535187036947,2005,unique neutral score
 occasion,0.8185383897837929,2005,unique neutral score
 progress,0.8087695204833523,2005,unique neutral score
 hands,0.7800364984856648,2005,unique neutral score
 humanity,0.7437886886719178,2005,unique neutral score
+challenges,0.7195093682337514,2005,unique neutral score
 honoured,0.7149357966547443,2005,unique neutral score
 south africa,0.7110546491702536,2005,unique neutral score
+privilege,0.6944827348637745,2005,unique neutral score
 making,0.6820125068235775,2005,unique neutral score
 continue,0.6744251376687083,2005,unique neutral score
 long,0.6305670272389725,2005,unique neutral score
@@ -24,8 +25,6 @@ live,0.5297882343924469,2005,unique neutral score
 children,0.5187919380950308,2005,unique neutral score
 people south,0.5159324715464875,2005,unique neutral score
 education,0.5074702405164085,2005,unique neutral score
-south african,0.4925372568528038,2005,unique neutral score
-peaceful,0.4914762342473658,2005,unique neutral score
 suffering,4.551870920898782,2005,unique high sentiment score
 prison,4.106647087467851,2005,unique high sentiment score
 justice,3.9619706767853313,2005,unique high sentiment score
@@ -34,18 +33,17 @@ freedom,3.4150990539297355,2005,unique high sentiment score
 struggle,3.3659755785841567,2005,unique high sentiment score
 years,3.278284220818536,2005,unique high sentiment score
 action,3.197745098808717,2005,unique high sentiment score
-cannot,3.0196662543608808,2005,unique high sentiment score
 need,3.0029878951678057,2005,unique high sentiment score
 commitment,2.936690424668491,2005,unique high sentiment score
+friends,2.8575600231677285,2005,unique high sentiment score
 leaders,2.726512130951022,2005,unique high sentiment score
-dignity,2.6918301287972293,2005,unique high sentiment score
-friends,2.6500549255151737,2005,unique high sentiment score
+cannot,2.679344871969488,2005,unique high sentiment score
+dignity,2.607814986481818,2005,unique high sentiment score
 time,2.52586634756325,2005,unique high sentiment score
 oppression,2.2492337946994536,2005,unique high sentiment score
 honour,2.135887267371408,2005,unique high sentiment score
 fight,2.134557580494212,2005,unique high sentiment score
 role,2.0327194700638174,2005,unique high sentiment score
-problems,2.0,2005,unique high sentiment score
 history,1.9189283145853249,2005,unique high sentiment score
 support,1.8300166420096509,2005,unique high sentiment score
 always,1.7158830779063288,2005,unique high sentiment score

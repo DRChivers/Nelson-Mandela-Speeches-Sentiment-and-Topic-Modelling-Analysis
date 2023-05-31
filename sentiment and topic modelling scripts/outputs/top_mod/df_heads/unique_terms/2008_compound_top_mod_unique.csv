@@ -1,33 +1,34 @@
 term,combined score,date,score category
 still,1.0816010033574663,2008,unique neutral score
-distinguished guests,0.6582579681010536,2008,unique neutral score
-guests,0.6300290738066605,2008,unique neutral score
 organisation,0.6180150216957925,2008,unique neutral score
 government,0.5964899145720131,2008,unique neutral score
-distinguished,0.5964399384588157,2008,unique neutral score
 south africa,0.5881541731388489,2008,unique neutral score
 including,0.5638671538546514,2008,unique neutral score
+national,0.5583161269092298,2008,unique neutral score
 africa,0.5486904175642866,2008,unique neutral score
 citizens,0.5354267999560566,2008,unique neutral score
 conflict,0.5101358975617248,2008,unique neutral score
 south,0.495026196932863,2008,unique neutral score
-national,0.4927086215729491,2008,unique neutral score
-human rights,0.4760410839151621,2008,unique neutral score
 privilege,0.4745718424404809,2008,unique neutral score
-continue,0.4593227535803964,2008,unique neutral score
+gentlemen,0.4660468936562196,2008,unique neutral score
 able,0.458555247614228,2008,unique neutral score
-rights,0.4279891121243589,2008,unique neutral score
+challenges,0.4447269307323874,2008,unique neutral score
+human rights,0.4263739127291829,2008,unique neutral score
 making,0.4254228105162186,2008,unique neutral score
+continue,0.4113998691854887,2008,unique neutral score
 place,0.3956368598995793,2008,unique neutral score
 long,0.3934881457901942,2008,unique neutral score
+region,0.3889529179115657,2008,unique neutral score
+special,0.3863916570897365,2008,unique neutral score
 peace,2.207643197281392,2008,unique high sentiment score
 suffering,1.9917546250618023,2008,unique high sentiment score
 democracy,1.9095188694025296,2008,unique high sentiment score
 life,1.4591650293383962,2008,unique high sentiment score
 fight,1.186435576457892,2008,unique high sentiment score
 poor,1.0562628128295883,2008,unique high sentiment score
-prison,1.0,2008,unique high sentiment score
+problem,1.0,2008,unique high sentiment score
 free,1.0,2008,unique high sentiment score
+prison,1.0,2008,unique high sentiment score
 struggle,0.7847093900305632,2008,unique high sentiment score
 non,0.7775515133829684,2008,unique high sentiment score
 lives,0.7219770026987783,2008,unique high sentiment score
@@ -35,9 +36,8 @@ build,0.6596407671535086,2008,unique high sentiment score
 among,0.6568923128943274,2008,unique high sentiment score
 respect,0.5968355761241464,2008,unique high sentiment score
 opportunity,0.5704365262287077,2008,unique high sentiment score
+importance,0.5646952709064849,2008,unique high sentiment score
 hands,0.5632389837719799,2008,unique high sentiment score
 hope,0.5589024664782284,2008,unique high sentiment score
-dear,0.5264103398220871,2008,unique high sentiment score
 education,0.5252889465771186,2008,unique high sentiment score
 end,0.5194607665697724,2008,unique high sentiment score
-order,0.492581529718811,2008,unique high sentiment score
